@@ -1,0 +1,14 @@
+
+order_id,customer,item,quantity,price,prep_time
+101,Ali,Burger,2,550,3
+102,Sara,Pizza,1,1200,5
+103,Ahmed,Pasta,2,750,4
+104,Zoya,Sandwich,3,400,2
+105,Hamza,Fries,2,300,2
+106,Ayesha,Burger,1,550,3
+107,Usman,Pizza,2,1200,5
+108,Fatima,Pasta,1,750,4
+109,Hassan,Sandwich,2,400,2
+110,Mariam,Fries,3,300,2
+111,Omar,Burger,2,550,3
+112,Noor,Pizza,1,1200,5
